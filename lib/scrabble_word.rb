@@ -22,5 +22,4 @@ class ScrabbleWord
 		result = score * multiplier
 		return result
 	end
-
 end
